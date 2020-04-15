@@ -1,3 +1,18 @@
+# [1.1.0](https://github.com/rshaibakov/test-app-1/compare/v1.0.0...v1.1.0) (2020-04-15)
+
+
+### Features
+
+* **hello world:** new hello world ([e0013bd](https://github.com/rshaibakov/test-app-1/commit/e0013bd02d55c3042a0088d27dcc142886cf86d2))
+
+# 1.0.0 (2020-04-15)
+
+
+### Features
+
+* **index:** add index.js ([94afe5c](https://github.com/rshaibakov/test-app-1/commit/94afe5cdcfd5a50d8a72d9f1b005569f8aaec193))
+* **readme:** add readme file ([a407f3e](https://github.com/rshaibakov/test-app-1/commit/a407f3e8f084ebe645e1a1bebadf0ad29dda4354))
+
 # 1.0.0-beta.1 (2020-04-15)
 
 

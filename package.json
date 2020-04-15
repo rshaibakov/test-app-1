@@ -1,6 +1,6 @@
 {
   "name": "test-app-1",
-  "version": "1.0.0-beta.1",
+  "version": "1.1.0",
   "main": "index.js",
   "repository": "git@github.com:rshaibakov/test-app-1.git",
   "author": "<rshaybakov@docdoc.ru>",
