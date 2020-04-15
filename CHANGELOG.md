@@ -1,3 +1,15 @@
+# [2.0.0-beta.1](https://github.com/rshaibakov/test-app-1/compare/v1.2.0-beta.2...v2.0.0-beta.1) (2020-04-15)
+
+
+### Features
+
+* ываыва ([815db9e](https://github.com/rshaibakov/test-app-1/commit/815db9e2276e500304f71775db3c5ac162a9efad))
+
+
+### BREAKING CHANGES
+
+* fsdfsdffdsf
+
 # [1.2.0-beta.2](https://github.com/rshaibakov/test-app-1/compare/v1.2.0-beta.1...v1.2.0-beta.2) (2020-04-15)
 
 
