@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/rshaibakov/test-app-1/compare/v1.0.0...v1.1.0) (2020-04-15)
+
+
+### Features
+
+* **hello world:** new hello world ([e0013bd](https://github.com/rshaibakov/test-app-1/commit/e0013bd02d55c3042a0088d27dcc142886cf86d2))
+
 # 1.0.0 (2020-04-15)
 
 
