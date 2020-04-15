@@ -1,3 +1,10 @@
+# [1.2.0-beta.2](https://github.com/rshaibakov/test-app-1/compare/v1.2.0-beta.1...v1.2.0-beta.2) (2020-04-15)
+
+
+### Features
+
+* **index:** йцуйцу ([65ff813](https://github.com/rshaibakov/test-app-1/commit/65ff8139d576a053298557e96b6c5e51abf1275e))
+
 # [1.2.0-beta.1](https://github.com/rshaibakov/test-app-1/compare/v1.1.0...v1.2.0-beta.1) (2020-04-15)
 
 
