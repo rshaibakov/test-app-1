@@ -1,0 +1,37 @@
+name: CI
+on: [push]
+
+jobs:
+  test:
+    name: Test
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: actions/setup-node@master
+      with:
+        node-version: '12.x'
+    - uses: actions/cache@v1
+      id: cache
+      with:
+        path: node_modaules
+        key: ${{ runner.os }}-${{ hashFiles('yarn.lock') }}
+    - name: Install
+      if: steps.cache.outputs.cache-hit != true
+      run: yarn
+    
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: actions/setup-node@master
+      with:
+        node-version: '12.x'
+    - uses: actions/cache@v1
+      id: cache
+      with:
+        path: node_modaules
+        key: ${{ runner.os }}-${{ hashFiles('yarn.lock') }}
+    - name: Install
+      if: steps.cache.outputs.cache-hit != true
+      run: yarn
